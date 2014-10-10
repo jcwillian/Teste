@@ -1,4 +1,4 @@
 Teste
 =====
 
-Reposito para teste do github
+Repositorio para teste do github
